@@ -1,0 +1,8 @@
+C:\Users\sai kiran\source\repos\StacksAndQueues\bin\Debug\StacksAndQueues.exe.config
+C:\Users\sai kiran\source\repos\StacksAndQueues\bin\Debug\StacksAndQueues.exe
+C:\Users\sai kiran\source\repos\StacksAndQueues\bin\Debug\StacksAndQueues.pdb
+C:\Users\sai kiran\source\repos\StacksAndQueues\obj\Debug\StacksAndQueues.csproj.AssemblyReference.cache
+C:\Users\sai kiran\source\repos\StacksAndQueues\obj\Debug\StacksAndQueues.csproj.SuggestedBindingRedirects.cache
+C:\Users\sai kiran\source\repos\StacksAndQueues\obj\Debug\StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\sai kiran\source\repos\StacksAndQueues\obj\Debug\StacksAndQueues.exe
+C:\Users\sai kiran\source\repos\StacksAndQueues\obj\Debug\StacksAndQueues.pdb
