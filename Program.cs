@@ -17,6 +17,15 @@ namespace StacksAndQueues
             linkedListStack.Push(30);
             linkedListStack.Push(56);
 
+            //Peek Value from Stack
+            linkedListStack.Peek();
+            Console.WriteLine("----------------------------");
+            linkedListStack.Pop();
+
+            //Pop value till Stack will empty
+            linkedListStack.IsEmpty();
+
+            //Display
             linkedListStack.Display();
 
             Console.ReadLine();
