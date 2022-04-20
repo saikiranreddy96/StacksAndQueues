@@ -10,23 +10,17 @@ namespace StacksAndQueues
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome To The Stacks And Queues Program");
+            Console.WriteLine("Welcome To The Stacks And Queues Program\n");
 
-            LinkedListStack linkedListStack = new LinkedListStack();
-            linkedListStack.Push(70);
-            linkedListStack.Push(30);
-            linkedListStack.Push(56);
+            LinkedListQueue linkedListQueue = new LinkedListQueue();
+            linkedListQueue.Enqueue(56);
+            linkedListQueue.Enqueue(30);
+            linkedListQueue.Enqueue(70);
+            Console.WriteLine("----------------");
 
-            //Peek Value from Stack
-            linkedListStack.Peek();
-            Console.WriteLine("----------------------------");
-            linkedListStack.Pop();
+            //Display Queue
+            linkedListQueue.Display();
 
-            //Pop value till Stack will empty
-            linkedListStack.IsEmpty();
-
-            //Display
-            linkedListStack.Display();
 
             Console.ReadLine();
         }
